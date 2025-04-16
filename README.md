@@ -1,4 +1,4 @@
-# LG_Radar_Prediction-
+# LG Radar Prediction
 
 📡 Radar 성능 예측 AI - LG AI 경진대회 (Team 해커톤)
 
@@ -53,8 +53,8 @@
 
 
 🏆 참여 정보
-대회명: LG AI 경진대회 - Radar 성능 예측
-기간: 2022년 8월 1일 ~ 2022년 8월 26일
-주최/주관: LG AI Research / Dacon
-팀명: 해커톤
-최종결과 : 2위
+- 대회명: LG AI 경진대회 - Radar 성능 예측
+- 기간: 2022년 8월 1일 ~ 2022년 8월 26일
+- 주최/주관: LG AI Research / Dacon
+- 팀명: 해커톤
+- 최종결과 : 2위
